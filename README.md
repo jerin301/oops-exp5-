@@ -1,4 +1,3 @@
-
 class Hotel {
     String hotelName, location;
     int roomNo;
